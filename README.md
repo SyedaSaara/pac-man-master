@@ -22,6 +22,6 @@ In this game, I show you how to make Pac-Man move around the grid while avoiding
 * Class
 * constructor
 * setInterval()
-* removeEventListener
+* removeEventListener 
 
  
